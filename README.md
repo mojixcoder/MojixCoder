@@ -6,6 +6,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/76670309/117254716-fa550700-ae5d-11eb-92e2-b8a2a8db0efa.png)  Tech Stack
+
   Python Django Postgresql 
   MySQL Redis Git
   
