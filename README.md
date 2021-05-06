@@ -1,3 +1,4 @@
+👨🏻‍💻  About Me
 - 👋 Hi, I’m @MojixCoder
 - 👀 I’m interested in Django, DjangoRestFramework, Rabbitmq, Celery
 - 🌱 I’m currently learning DjangoRestFramework, Rabbitmq, Celery
