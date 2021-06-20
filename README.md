@@ -5,8 +5,6 @@
 - 📫 How to reach me ==> mojix1010@gmail.com
 
 
--hammer_and_wrench Tech Stack
-
  - Python Django Postgresql MySQL Redis Git
   
 <!---
