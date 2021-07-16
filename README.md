@@ -1,8 +1,8 @@
 👨🏻‍💻  About Me
 - 👋 Hi, I’m @MojixCoder
 - 👀 I’m interested in Django, DjangoRestFramework, Rabbitmq, Celery
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ==> mojixcoder@gmail.com
+- 💞️ My stackoverflow page ==> (MojixCoder)[https://stackoverflow.com/users/11487872/mojixcoder]
 
 <!---
 MojixCoder/MojixCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
