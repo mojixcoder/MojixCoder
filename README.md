@@ -4,7 +4,7 @@
 - 📫 How to reach me ==> mojixcoder@gmail.com
 - 💞️ My stackoverflow page ==> [MojixCoder](https://stackoverflow.com/users/11487872/mojixcoder)
 
-![stackoverflow](https://stackoverflow.com/users/flair/11487872)
+![](https://img.shields.io/stackexchange/stackoverflow/r/11487872?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400)
 
 <!---
 MojixCoder/MojixCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
