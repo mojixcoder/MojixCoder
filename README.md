@@ -3,7 +3,7 @@
 - 👀 I’m interested in Django, DjangoRestFramework, FastAPI, Rabbitmq, Celery
 - 📫 How to reach me ==> mojixcoder@gmail.com
 
-[![MojixCoder StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11487872)](https://stackoverflow.com/users/11487872/mojixcoder)
+[![MojixCoder StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11487872&theme=dark)](https://stackoverflow.com/users/11487872/mojixcoder)
 
 
 <!---
