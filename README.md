@@ -32,7 +32,7 @@ mojixcoder.greet()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojixcoder&hide=TeX&layout=compact)
 
 
-## Socials
+## 🌐 Socials
 
 [![Linkedin Badge](https://img.shields.io/badge/-MojtabaArezoomand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mojtaba-arezoomand-163710204/)](https://www.linkedin.com/in/mojtaba-arezoomand-163710204/)
 [![Gmail Badge](https://img.shields.io/badge/-mojixcoder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mojixcoder@gmail.com)](mailto:mojixcoder@gmail.com)
