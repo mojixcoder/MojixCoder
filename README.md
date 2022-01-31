@@ -34,6 +34,6 @@ mojixcoder.greet()
 
 ## Social
 
-[![Linkedin Badge](https://img.shields.io/badge/-mojtabaarezoomand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mojtaba-arezoomand-163710204/)](https://www.linkedin.com/in/mojtaba-arezoomand-163710204/)
+[![Linkedin Badge](https://img.shields.io/badge/-MojtabaArezoomand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mojtaba-arezoomand-163710204/)](https://www.linkedin.com/in/mojtaba-arezoomand-163710204/)
 [![Instagram Badge](https://img.shields.io/badge/-mojixcoder-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mojixcoder/)](https://www.instagram.com/mojixcoder/)
 [![Gmail Badge](https://img.shields.io/badge/-mojixcoder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mojixcoder@gmail.com)](mailto:mojixcoder@gmail.com)
