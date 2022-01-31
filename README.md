@@ -14,8 +14,8 @@ class BackendDeveloper:
         self.languages = ["Python"]
         self.frameworks = ["Django", "FastAPI"]
         self.databases = ["PostgreSQL", "MySQL", "Redis", "MongoDB"]
-        self.tools = ["Git", "Docker", "Nginx", "RabbitMQ"]
-
+        self.tools = ["Git", "Github Workflows", "Docker", "Nginx", "RabbitMQ"]
+        
     def greet(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
