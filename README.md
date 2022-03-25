@@ -11,7 +11,7 @@ class BackendDeveloper:
     def __init__(self):
         self.name = "Mojix Coder"
         self.role = "Backend Developer"
-        self.languages = ["Python"]
+        self.languages = ["Python", "Go"]
         self.frameworks = ["Django", "FastAPI"]
         self.databases = ["PostgreSQL", "MySQL", "Redis", "MongoDB"]
         self.tools = ["Git", "Github Workflows", "Docker", "Nginx", "RabbitMQ"]
