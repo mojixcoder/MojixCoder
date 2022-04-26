@@ -5,15 +5,15 @@
 
 ```go
 type SoftwareEngineer struct {
-	Languages []string
-	Databases []string
-	Tools     []string
+    Languages []string
+    Databases []string
+    Tools     []string
 }
 
 var MojixCoder = SoftwareEngineer{
-	Languages: []string{"Go", "Python"},
-	Databases: []string{"PostgreSQL", "MySQL", "Redis", "MongoDB", "Cassandra"},
-	Tools:     []string{"Git", "Gitlab", "Docker", "Nginx", "RabbitMQ", "Nats", "Prometheus"},
+    Languages: []string{"Go", "Python"},
+    Databases: []string{"PostgreSQL", "MySQL", "Redis", "MongoDB", "Cassandra"},
+    Tools:     []string{"Git", "Gitlab", "Docker", "Nginx", "RabbitMQ", "Nats", "Prometheus"},
 }
 ```
 
