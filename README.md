@@ -3,26 +3,18 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-```python
+```go
+type SoftwareEngineer struct {
+	Languages []string
+	Databases []string
+	Tools     []string
+}
 
-
-class BackendDeveloper:
-
-    def __init__(self):
-        self.name = "Mojix Coder"
-        self.role = "Backend Developer"
-        self.languages = ["Python", "Go"]
-        self.frameworks = ["Django", "FastAPI"]
-        self.databases = ["PostgreSQL", "MySQL", "Redis", "MongoDB"]
-        self.tools = ["Git", "Github Workflows", "Docker", "Nginx", "RabbitMQ"]
-        
-    def greet(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-mojixcoder = BackendDeveloper()
-mojixcoder.greet()
-
+var MojixCoder = SoftwareEngineer{
+	Languages: []string{"Go", "Python"},
+	Databases: []string{"PostgreSQL", "MySQL", "Redis", "MongoDB", "Cassandra"},
+	Tools:     []string{"Git", "Gitlab", "Docker", "Nginx", "RabbitMQ", "Nats", "Prometheus"},
+}
 ```
 
 
