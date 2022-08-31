@@ -13,7 +13,7 @@ type SoftwareEngineer struct {
 var MojixCoder = SoftwareEngineer{
     Languages: []string{"Go", "Python"},
     Databases: []string{"PostgreSQL", "MySQL", "Redis", "MongoDB", "Cassandra"},
-    Tools:     []string{"Git", "Gitlab", "Docker", "Nginx", "RabbitMQ", "Nats", "Prometheus"},
+    Tools:     []string{"Git", "Gitlab", "Docker", "Nginx", "RabbitMQ", "Nats", "Prometheus", "Kubernetes"},
 }
 ```
 
