@@ -20,7 +20,7 @@ var MojixCoder = SoftwareEngineer{
 
 ## ⚡ Stats
 
-![Mojtaba's Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=mojixcoder&show_icons=true&theme=radical&include_all_commits=true&hide_rank=false)
+![Mojtaba's Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=mojixcoder&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true)
 
 ## 🌐 Socials
 
