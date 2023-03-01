@@ -17,11 +17,6 @@ var MojixCoder = SoftwareEngineer{
 }
 ```
 
-
-## ⚡ Stats
-
-![Mojtaba's Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=mojixcoder&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true)
-
 ## 🌐 Socials
 
 [![Linkedin Badge](https://img.shields.io/badge/-mojixcoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mojtaba-arezoomand-163710204/)](https://www.linkedin.com/in/mojtaba-arezoomand-163710204/)
